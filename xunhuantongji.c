@@ -1,3 +1,4 @@
+/*输入两个正整数n和m，读取n个正整数a1，a2...an，统计n个正整数中有多少个正整数的值小于m*/
 #include<stdio.h>
 int main(void)
 {
