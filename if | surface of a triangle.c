@@ -1,3 +1,4 @@
+/*输入三个正整数，若能做三角形边长，则计算并输出三角形面积，否则输出can't*/
 #include<stdio.h>
 int main(void)
 {
