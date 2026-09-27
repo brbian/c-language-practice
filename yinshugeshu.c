@@ -1,3 +1,4 @@
+/*任意给一个自然数n，求出这个自然数不同的因数*/
 #include<stdio.h>
 int main(void)
 {
