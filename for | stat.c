@@ -5,7 +5,7 @@ int main(void)
     int n,m,a,stat=0,i;
         scanf("%d%d",&n,&m);
         for(i=1;i<=n;i++){
-            scanf("%d",&a);
+            scanf("%d",&a);/*把i放入a中读取。 ？为什么不能直接scan i？*/
             if(a<m)stat++;
      }
         printf("%d\n",stat);
