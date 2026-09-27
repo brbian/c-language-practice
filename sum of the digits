@@ -1,3 +1,4 @@
+/*计算各个位数上的数字之和*/
 #include<stdio.h>
 int main(void)
 {
