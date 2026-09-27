@@ -1,3 +1,4 @@
+/*输入三个学生的成绩，计算平均分*/
 #include<stdio.h>
 int main(void)
 {
