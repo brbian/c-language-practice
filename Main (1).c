@@ -1,3 +1,6 @@
+/*倒数累加
+ 读入n,计算1-1/2+1/3-1/4...1/n的值
+ */
 #include<stdio.h>
 int main(void)
 {
